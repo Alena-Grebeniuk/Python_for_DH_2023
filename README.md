@@ -2,6 +2,7 @@
 Репозиторий с материалами курса Введение в Python для Digital Humanitites
 
 Ссылка на [плейлист на ютубе](https://www.youtube.com/playlist?list=PLWKPhCKW0I5L8dN3n3ENjqt0knP1u88Y7)
+[Путеводитель Python](https://my.visme.co/view/pv8x9nx4-g8nlq7xy098e2m9d)
 
 # Расписание курса
 <table><tr><th><p>Тема</p>
