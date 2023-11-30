@@ -18,7 +18,7 @@
 </tr><tr><td><p><a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_Intro_1.ipynb">Ввод/вывод, переменные, операторы, простые типы данных</a></p>
 </td><td><p>24 ноября</p>
 </td>
-</tr><tr><td><p>Типы данных посложнее: список, кортеж, множество, словарь</p>
+</tr><tr><td><p><a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_list%2C%20tuple%2C_set%2C_dict.ipynb">Типы данных посложнее: список, кортеж, множество, словарь</a></p>
 </td><td><p>30 ноября</p>
 </td>
 </tr><tr><td><p>Условия + Циклы</p>
