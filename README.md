@@ -29,7 +29,7 @@
 </tr><tr><td><p><a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_4_Function.ipynb">Функции</a> + <a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_5_Шпаргалка_по_методам.ipynb">методы</a></p>
 </td><td><p>7 декабря</p>
 </td>
-</tr><tr><td><p>Регулярные выражения</p>
+</tr><tr><td><p><a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_7_regex_2023.ipynb">Регулярные выражения</a></p>
 </td><td><p>8 декабря</p>
 </td>
 </tr><tr><td><p>Работа с файлами: модуль OS + pandas</p>
