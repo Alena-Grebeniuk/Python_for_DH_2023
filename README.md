@@ -32,7 +32,7 @@
 </tr><tr><td><p><a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_7_regex_2023.ipynb">Регулярные выражения</a></p>
 </td><td><p>8 декабря</p>
 </td>
-</tr><tr><td><p><a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_6_os%2C_files.ipynb">Работа с файлами: модуль OS + pandas</a></p>
+</tr><tr><td><p><a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_6_os%2C_files.ipynb">Работа с файлами: модуль OS</a> + <a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_10_pandas.ipynb">pandas</a></p>
 </td><td><p>14 декабря</p>
 </td>
 </tr><tr><td><p>Краулеры + парсеры + скрейперы</p>
