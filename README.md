@@ -35,7 +35,7 @@
 </tr><tr><td><p><a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_6_os%2C_files.ipynb">Работа с файлами: модуль OS</a> + <a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_10_pandas.ipynb">pandas</a></p>
 </td><td><p>14 декабря</p>
 </td>
-</tr><tr><td><p>Краулеры + парсеры + скрейперы</p>
+</tr><tr><td><p><a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_11_BeautifulSoup.ipynb">Краулеры + парсеры + скрейперы</a></p>
 </td><td><p>15 декабря</p>
 </td>
 </tr><tr><td><p>Основные библиотеки питона для DH-задач: статистика, тексты</a></p>
