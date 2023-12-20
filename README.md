@@ -1,6 +1,8 @@
 # Python_for_DH_2023
 Репозиторий с материалами курса Введение в Python для Digital Humanitites
 
+!!! [Финальный тест](https://forms.gle/f5NXBXP6PzHxV8kF9)
+
 Баллы за задания в [таблице](https://docs.google.com/spreadsheets/d/1ic8Y42MTZirokmn_sjck4RdlTCQKiMxkKie0HeC8LEw/edit?usp=sharing)
 
 Ссылка на [плейлист на ютубе](https://www.youtube.com/playlist?list=PLWKPhCKW0I5L8dN3n3ENjqt0knP1u88Y7)
