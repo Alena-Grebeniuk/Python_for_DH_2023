@@ -40,7 +40,7 @@
 </tr><tr><td><p><a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_11_BeautifulSoup.ipynb">Краулеры + парсеры + скрейперы</a></p>
 </td><td><p>15 декабря</p>
 </td>
-</tr><tr><td><p>Основные библиотеки питона для DH-задач: статистика, тексты</a></p>
+</tr><tr><td><p>Основные библиотеки питона для DH-задач: <a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_9_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%B4%D0%BB%D1%8F_DH_1.ipynb">статистика</a>, <a href="https://github.com/AnnSenina/Python_for_DH_2023/blob/main/notebooks/Python_9_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%B4%D0%BB%D1%8F_DH_2.ipynb">тексты</a></p>
 </td><td><p>21 декабря</p>
 </td>
 </tr>
